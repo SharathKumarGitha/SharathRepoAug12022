@@ -8,6 +8,9 @@ public class Demo1 {
 		
 		System.out.println("this is sharath");
 		
+		System.out.println("this is sample java program...");
+		
+		System.out.println("my name is meghna sir...");
 		
 		
 		
