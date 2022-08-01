@@ -6,7 +6,7 @@ public class Demo1 {
 		
 		System.out.println("this is simple java class");
 		
-		System.out.println("this is second line...");
+		System.out.println("this is sharath");
 	}
 
 }
